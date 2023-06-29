@@ -20,5 +20,4 @@ To the loan section just input:
   Amount of loan;
 click loan to calculate and receipt to print it.
 
-This Project was made by two students of Metropolitan University of Tirana:
- -------------Egers Braho and Leonsio Daja---------------------------------
+
