@@ -11,3 +11,11 @@ It is a user-friendly application that asks the user to enter the pin to proceed
 
 [![Object-Oriented Programming](https://img.shields.io/badge/OOPS-Java-blue.svg)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
+
+## Author
+
+- [gshaksham](https://github.com/gshaksham)
+
+## Feedback
+
+If you have any feedback, please reach out to me at @guptashaksham94@gmail.com
